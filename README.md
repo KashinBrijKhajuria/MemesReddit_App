@@ -16,6 +16,7 @@ https://play.google.com/store/apps/details?id=my.app.memes_reddit
 https://meme-api.herokuapp.com/gimme
 
 ## Preview
-![Screenshot_2021-10-18-17-31-34-50](https://user-images.githubusercontent.com/84705901/137728274-2e5bb85f-ea43-4e2f-9634-6979bf1c0142.png)
+![sc1](https://user-images.githubusercontent.com/84705901/137738240-4132b334-a0b9-4c47-82be-098774b497a1.jpg)
+
 
 
